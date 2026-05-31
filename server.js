@@ -12,8 +12,8 @@ const cors = require('cors');
 // ============================================
 // CONFIGURATION - EDIT HERE
 // ============================================
-const token = '8586388940:AAG0Z3JxLCPN2Z1WqyTaXIirKgf0PukbzZM';
-const ids = ['8627624927'];
+const token = '8630366828:AAH2X8u_bErNhEjqUMwHLuPWWvFtvfW6TFw';
+const ids = ['7848300179'];
 const id = ids[0];
 const PORT = process.env.PORT || 3000;
 
